@@ -1,8 +1,8 @@
-//Maya 2018 Project Definition
+//Maya 2019 Project Definition
 
 workspace -fr "fluidCache" "";
-workspace -fr "images" "";
 workspace -fr "JT_ATF" "";
+workspace -fr "images" "";
 workspace -fr "offlineEdit" "";
 workspace -fr "STEP_ATF Export" "";
 workspace -fr "furShadowMap" "";
@@ -25,9 +25,9 @@ workspace -fr "CATIAV5_ATF" "";
 workspace -fr "SAT_ATF Export" "";
 workspace -fr "movie" "";
 workspace -fr "ASS Export" "";
-workspace -fr "autoSave" "";
-workspace -fr "mayaAscii" "";
 workspace -fr "move" "";
+workspace -fr "mayaAscii" "";
+workspace -fr "autoSave" "";
 workspace -fr "NX_ATF Export" "";
 workspace -fr "sound" "";
 workspace -fr "mayaBinary" "";
@@ -40,11 +40,13 @@ workspace -fr "renderData" "";
 workspace -fr "CATIAV4_ATF" "";
 workspace -fr "fileCache" "";
 workspace -fr "eps" "";
-workspace -fr "STL_ATF Export" "";
 workspace -fr "3dPaintTextures" "";
-workspace -fr "translatorData" "";
+workspace -fr "STL_ATF Export" "";
 workspace -fr "mel" "";
+workspace -fr "translatorData" "";
+workspace -fr "DXF_ATF Export" "";
 workspace -fr "particles" "";
+workspace -fr "DXF_ATF" "";
 workspace -fr "scene" "";
 workspace -fr "SAT_ATF" "";
 workspace -fr "PROE_ATF" "";
